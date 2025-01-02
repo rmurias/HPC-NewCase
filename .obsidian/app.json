@@ -3,5 +3,6 @@
   "newFileLocation": "current",
   "showLineNumber": false,
   "vimMode": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "showUnsupportedFiles": true
 }

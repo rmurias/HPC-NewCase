@@ -1,8 +1,8 @@
 
 ## Vendor Productions and Locations
 
-| Vendor   | Location | Production           |
-| -------- | -------- | -------------------- |
-| Ericsson |          | [[Ericsson Summary]] |
-| Nokia    |          | [[Nokia Summary]]    |
+| Vendor   | Location | Production      |
+| -------- | -------- | --------------- |
+| Ericsson |          | [[placeholder]] |
+| Qualcomm |          | [[placeholder]] |
 

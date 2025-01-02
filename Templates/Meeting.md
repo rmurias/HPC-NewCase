@@ -4,17 +4,12 @@ date: <% tp.date.now() %>
 start: <% tp.date.now("HH:00") %>
 end: <% tp.date.now("HH:00") %>
 total-time: 
-attendees: 
-tags:
+attendees: []
+tags: []
+modified: 2024-12-06
 ---
-<% tp.file.rename("CC-" + tp.date.now()) %>
-
-**Attendees:**
-
-`=this.attendees`
 
 ## Notes
-
 
 ## ToDo
 
